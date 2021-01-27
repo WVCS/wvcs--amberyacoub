@@ -7,7 +7,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FDA172;
+  background-color: #BC987E;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
@@ -19,14 +19,14 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #EEE9E3;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: #FDA172;
+  background-color: #FFF666;
 }
 
 .active {
